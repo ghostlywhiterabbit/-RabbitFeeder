@@ -1,0 +1,1 @@
+"""RabbitFeeder graphical interface."""
